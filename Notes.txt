@@ -1,0 +1,2 @@
+Python is a Object Oriented Programming Language.
+It has many libraries like Pandas, Numpy, Sklearn, Keras, Matplotlib.
