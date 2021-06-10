@@ -1,6 +1,7 @@
 # Program to print average word length
 
 class Student:
+    # Object Oriented Programming Language
 
     def __init__(self):
         print("----------------------Welcome to the Student Portal---------------------")
